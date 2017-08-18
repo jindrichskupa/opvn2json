@@ -1,4 +1,4 @@
-# opvn2json
+# ovpn2json
 
 ## Usage:
 
